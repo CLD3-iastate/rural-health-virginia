@@ -22,7 +22,7 @@ data_usda <- read_rds("data/final_usda.rds")
 data_older <- read_rds("data/final_older.rds")
 data_socdem <- read_rds("data/final_socdem.rds")
 data_bband <- read_rds("data/final_internet.rds")
-data_corelogic <- read_rds("data/final_corelogic.rds") # CoreLogic data kept off of Github for
+data_corelogic <- read_rds("data/final_corelogic.rds") # Proprietary CoreLogic data kept off of Github
 
 data_ems <- read_rds("data/final_ems_forapp.rds")
 data_ems8_county <- read_rds("data/final_ems_8_countywide_coverage.rds")
