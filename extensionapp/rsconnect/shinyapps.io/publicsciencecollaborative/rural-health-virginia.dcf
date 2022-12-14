@@ -1,0 +1,13 @@
+name: rural-health-virginia
+title: rural-health-virginia
+username:
+account: publicsciencecollaborative
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7765006
+bundleId: 6636657
+url: https://publicsciencecollaborative.shinyapps.io/rural-health-virginia/
+when: 1671033052.95562
+lastSyncTime: 1671033052.95562
+asMultiple: FALSE
+asStatic: FALSE
