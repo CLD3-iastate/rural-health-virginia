@@ -41,7 +41,7 @@ vignettes/*.pdf
 .Rproj.user
 *.Rproj
 
-# CoreLogic data
+# Proprietary CoreLogic data
 /extensionapp/data/final_corelogic.rds
 
 
